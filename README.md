@@ -41,15 +41,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Exemplo: Desenvolvido com foco em interface, o projeto prioriza um design clean e agradável, garantindo uma experiência de usuário fluida.
 
-## 🔖 Layout
+## 🎨 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita).
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by **Luiz Felipe**
