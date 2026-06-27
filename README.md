@@ -1,38 +1,55 @@
-## Página de receita
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Receita de um Cupcake de café com chantilly, ideal para os amantes de sobremesas. Desenvolvido durante a formação Full-stack com foco em interface, o projeto prioriza um design *clean* e agradável, garantindo uma experiência de usuário fluida.
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-### Preview do projeto
-![Página de receita](.github/preview.png)
+<br>
+
+<p align="center">
+  <img alt="Página de receita" src=".github/preview.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+
+### Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
 
 
-### Tecnologias & Ferramentas
-- **HTML5** e **CSS3**
-- **Git** e **Github**
+### Conceitos aplicados
 
-###  Conceitos aplicados
 - Estruturação semântica de documentos HTML
 - Estilização de layout com CSS3
 - Manipulação de listas e imagens
 - Aplicação cores, background e tipografia
 
-###  Como rodar o projeto
-1. Faça o clone do projeto, com git já instalado:
-```
-git clone https://github.com/luizfpinto94/pagina-de-receita
-```
-2. Após clonar o projeto acesse:
-```
-cd pagina-de-receita
-```
-3. Abra o projeto no seu editor de código, e instale o plugin Live Server. Depois é só clicar sobre o arquivo HTML na opção abaixo que vai abrir a página no navegador.
-```
-Open with Live Server
-```
+## 💻 Projeto
 
-### Designer do projeto
+**Página de receita**, é uma receita de um Cupcake de café com chantilly, ideal para os amantes de sobremesas. 
 
-Criado e disponibilizado por Rocketseat
-* **Figma do projeto:** [Clique aqui](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita)
+Exemplo: Desenvolvido com foco em interface, o projeto prioriza um design clean e agradável, garantindo uma experiência de usuário fluida.
 
+## 🔖 Layout
 
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita).
+É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ by **Luiz Felipe**
