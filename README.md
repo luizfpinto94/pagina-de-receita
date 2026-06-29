@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=F0E8C2&labelColor=000000" alt="PRs welcome!" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=F0E8C2&labelColor=000000">
 </p>
 
 <br>
@@ -40,6 +40,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 **Página de receita**, é uma receita de um Cupcake de café com chantilly, ideal para os amantes de sobremesas. 
 
 Exemplo: Desenvolvido com foco em interface, o projeto prioriza um design clean e agradável, garantindo uma experiência de usuário fluida.
+
+### Como rodar o projeto
+
+1. **Pré-requisitos:**
+   - Ter o Git instalado e configurado.
+2. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/luizfpinto94/pagina-de-receita.git
+3. **Acesse a pasta do projeto:**
+   ```bash
+   cd pagina-de-receita
+4. **Abra o editor de código (Ex: Vscode):**
+   Instale o plugin Live Server e abra o projeto no navegador
 
 ## 🎨 Layout
 
